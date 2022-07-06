@@ -18,6 +18,11 @@
                 "channel_url": "https://twitter.com/m60irl",
                 "image_url": "https://raw.githubusercontent.com/m60irl/stuff/main/twitter.png",
                 "title": "Follow on Twitter"
+            },
+			{
+                "channel_url": "https://discord.gg/m60",
+                "image_url": "https://raw.githubusercontent.com/m60irl/stuff/main/discord.png",
+                "title": "Join the Discord"
             }
         ]
     }
