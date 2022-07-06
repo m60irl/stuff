@@ -23,6 +23,16 @@
                 "channel_url": "https://discord.gg/m60",
                 "image_url": "https://raw.githubusercontent.com/m60irl/stuff/main/discord.png",
                 "title": "Join the Discord"
+            },
+			{
+                "channel_url": "https://tip.m60.live",
+                "image_url": "https://raw.githubusercontent.com/m60irl/stuff/main/paypal.png",
+                "title": "Donate with PayPal"
+            },
+			{
+                "channel_url": "https://1upcoin.com/donate/m60_",
+                "image_url": "https://raw.githubusercontent.com/m60irl/stuff/main/bitcoin.png",
+                "title": "Donate with Crypto"
             }
         ]
     }
