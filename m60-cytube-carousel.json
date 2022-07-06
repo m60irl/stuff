@@ -5,14 +5,19 @@
         "order_uuid": null,
         "channels": [
             {
-                "channel_url": "https://cytu.be/r/southparkhd",
-                "image_url": "https://raw.githubusercontent.com/BillTube/Extras/gh-pages/C47MQA3.png",
-                "title": "Visit the Southpark Channel"
+                "channel_url": "https://twitch.tv/m60_",
+                "image_url": "https://raw.githubusercontent.com/m60irl/stuff/main/twitch.png",
+                "title": "Follow on Twitch"
             },
 			{
-                "channel_url": "https://cytu.be/r/seinfeldHD",
-                "image_url": "https://raw.githubusercontent.com/BillTube/Extras/gh-pages/sf.png",
-                "title": "Visit the Seinfeld Channel"
+                "channel_url": "https://youtube.com/m60",
+                "image_url": "https://raw.githubusercontent.com/m60irl/stuff/main/youtube.png",
+                "title": "Subscribe on YouTube"
+            },
+			{
+                "channel_url": "https://twitter.com/m60irl",
+                "image_url": "https://raw.githubusercontent.com/m60irl/stuff/main/twitter.png",
+                "title": "Follow on Twitter"
             }
         ]
     }
