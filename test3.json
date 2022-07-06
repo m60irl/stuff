@@ -1,0 +1,24 @@
+{
+    "ok": true,
+    "list": {
+        "uuid": "939fbf65-9040-4392-ae06-5817dd84f57a",
+        "order_uuid": null,
+        "channels": [
+            {
+                "channel_url": "https://twitch.tv/m60_",
+                "image_url": "https://raw.githubusercontent.com/m60irl/stuff/main/twitch.png",
+                "title": "Follow on Twitch"
+            },
+			{
+                "channel_url": "https://youtube.com/m60",
+                "image_url": "https://raw.githubusercontent.com/m60irl/stuff/main/youtube.png",
+                "title": "Subscribe on YouTube"
+            },
+			{
+                "channel_url": "https://twitter.com/m60irl",
+                "image_url": "https://raw.githubusercontent.com/m60irl/stuff/main/twitter.png",
+                "title": "Follow on Twitter"
+            }
+        ]
+    }
+}
