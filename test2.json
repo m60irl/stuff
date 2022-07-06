@@ -1,0 +1,19 @@
+{
+    "ok": true,
+    "list": {
+        "uuid": "939fbf65-9040-4392-ae06-5817dd84f57a",
+        "order_uuid": null,
+        "channels": [
+            {
+                "channel_url": "https://cytu.be/r/southparkhd",
+                "image_url": "https://raw.githubusercontent.com/BillTube/Extras/gh-pages/C47MQA3.png",
+                "title": "Visit the Southpark Channel"
+            },
+			{
+                "channel_url": "https://cytu.be/r/seinfeldHD",
+                "image_url": "https://raw.githubusercontent.com/BillTube/Extras/gh-pages/sf.png",
+                "title": "Visit the Seinfeld Channel"
+            }
+        ]
+    }
+}
